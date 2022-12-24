@@ -20,7 +20,7 @@ class _ChatUsersScreenState extends State<ChatUsersScreen> {
               icon: const Icon(Icons.close),
               onPressed: () {
                 ///
-              })
+              }),
         ],
       ),
       body: Container(
